@@ -248,7 +248,7 @@ Dashboard & Search
 
 ## Author
 
-**Kalaiyarasan S**
+**Hema Priya S**
 
 Aspiring Full Stack Python Developer
 
